@@ -1,0 +1,559 @@
+fileFormatVersion: 2
+guid: 939039adf270ea643b0ddc4d50288be2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1256189086680668763
+    second: topluTasarim_0
+  - first:
+      213: 5328243587595138939
+    second: topluTasarim_1
+  - first:
+      213: 1652823967283861686
+    second: topluTasarim_2
+  - first:
+      213: -4924033027609640833
+    second: topluTasarim_3
+  - first:
+      213: 2773357224761946815
+    second: topluTasarim_4
+  - first:
+      213: -3182385756764461859
+    second: topluTasarim_5
+  - first:
+      213: -743775103520485982
+    second: topluTasarim_6
+  - first:
+      213: 9051570571796125828
+    second: topluTasarim_7
+  - first:
+      213: -2399006586508222566
+    second: topluTasarim_8
+  - first:
+      213: -1223360006158368785
+    second: topluTasarim_9
+  - first:
+      213: -6168518089382568024
+    second: topluTasarim_10
+  - first:
+      213: 7843880278072629025
+    second: topluTasarim_11
+  - first:
+      213: 8278751321050827666
+    second: topluTasarim_12
+  - first:
+      213: 7088291945463806960
+    second: topluTasarim_13
+  - first:
+      213: -3941289292918173274
+    second: topluTasarim_14
+  - first:
+      213: -8664416006478543842
+    second: topluTasarim_15
+  - first:
+      213: 32232612932364859
+    second: topluTasarim_16
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: topluTasarim_0
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 463
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5ad25a9151ee6110800000000000000
+      internalID: 1256189086680668763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topluTasarim_1
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 463
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b777c5b0059b1f940800000000000000
+      internalID: 5328243587595138939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topluTasarim_2
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 463
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b8d43624a200f610800000000000000
+      internalID: 1652823967283861686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topluTasarim_3
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 463
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f70490fcc025aabb0800000000000000
+      internalID: -4924033027609640833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topluTasarim_4
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 463
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb2f239b3b1fc7620800000000000000
+      internalID: 2773357224761946815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topluTasarim_5
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 463
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd4aac5e305e5d3d0800000000000000
+      internalID: -3182385756764461859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topluTasarim_6
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 463
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2adc1e9eb749da5f0800000000000000
+      internalID: -743775103520485982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topluTasarim_7
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 463
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 488994f4a73ad9d70800000000000000
+      internalID: 9051570571796125828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topluTasarim_8
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 463
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9fda55583405bed0800000000000000
+      internalID: -2399006586508222566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topluTasarim_9
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 472
+        width: 34
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fefb2885e80c50fe0800000000000000
+      internalID: -1223360006158368785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topluTasarim_10
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 473
+        width: 34
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8afd7cbda75056aa0800000000000000
+      internalID: -6168518089382568024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topluTasarim_11
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 463
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1271633ed8f0bdc60800000000000000
+      internalID: 7843880278072629025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topluTasarim_12
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 463
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29bc70bb67804e270800000000000000
+      internalID: 8278751321050827666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topluTasarim_13
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 463
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fbf1a118fbae5260800000000000000
+      internalID: 7088291945463806960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topluTasarim_14
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 431
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a1df8a154abd49c0800000000000000
+      internalID: -3941289292918173274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topluTasarim_15
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 431
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1443a35c8fc1c780800000000000000
+      internalID: -8664416006478543842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: topluTasarim_16
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 415
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3a24040463827000800000000000000
+      internalID: 32232612932364859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      topluTasarim_0: 1256189086680668763
+      topluTasarim_1: 5328243587595138939
+      topluTasarim_10: -6168518089382568024
+      topluTasarim_11: 7843880278072629025
+      topluTasarim_12: 8278751321050827666
+      topluTasarim_13: 7088291945463806960
+      topluTasarim_14: -3941289292918173274
+      topluTasarim_15: -8664416006478543842
+      topluTasarim_16: 32232612932364859
+      topluTasarim_2: 1652823967283861686
+      topluTasarim_3: -4924033027609640833
+      topluTasarim_4: 2773357224761946815
+      topluTasarim_5: -3182385756764461859
+      topluTasarim_6: -743775103520485982
+      topluTasarim_7: 9051570571796125828
+      topluTasarim_8: -2399006586508222566
+      topluTasarim_9: -1223360006158368785
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
