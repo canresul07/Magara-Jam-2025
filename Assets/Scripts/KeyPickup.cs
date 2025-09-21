@@ -3,7 +3,7 @@ using UnityEngine;
 public class KeyPickup : MonoBehaviour
 {
     [Tooltip("Kapıyla eşleşecek anahtar kimliği")]
-    public string keyId = "DoorA";
+    public string keyId = "K1";
 
     [Tooltip("Sadece hayalet alabilsin mi?")]
     public bool onlyGhostCanPick = true;
@@ -17,9 +17,6 @@ public class KeyPickup : MonoBehaviour
 
         // Ortak envantere ekle
         Inventory.Instance.AddKey(keyId);
-
-        // SFX (opsiyonel)
-        if (pickupSfx) AudioSource.PlayClipAtPoint(pickupSfx, transform.position);
 
         // İstersen önce bir toplama animasyonu oynatıp sonra yok et
         Destroy(gameObject);
